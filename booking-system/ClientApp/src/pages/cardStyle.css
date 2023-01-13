@@ -1,0 +1,18 @@
+﻿body {
+}
+
+.list-group-item-try {
+    padding: 4px 4px;
+    background-color:black
+}
+
+.list-group-item-try {
+    position: relative;
+    display: block;
+    padding: 0.25rem 0.25rem;
+    color: #212529;
+    border:none;
+    text-decoration: none;
+    background-color: #fff;
+/*    border: 1px solid rgba(0, 0, 0, 0.125);*/
+}

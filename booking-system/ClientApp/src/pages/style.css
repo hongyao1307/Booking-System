@@ -1,0 +1,35 @@
+﻿.btn {
+    color:darkred
+}
+.pptt {
+    color:grey;
+    font-size:13px;
+    line-height:5px
+}
+.mb-1 {
+    line-height:200%
+}
+.btn {
+    font-size:xx-small;
+    margin:0px 0px;
+    padding:10px 25px
+}
+.modal {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    background-color: #FFF;
+    padding: 50px 50px;
+}
+.card-wider {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #fff;
+    background-clip: border-box;
+    border: 1px solid rgba(0, 0, 0, 0.125);
+    border-radius: 0.25rem;
+    width:500px;
+}

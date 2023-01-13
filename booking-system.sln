@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1704.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "booking-system", "booking-system\booking-system.csproj", "{FF7CC3BE-A6FE-4B52-98ED-7ABD6133B345}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF7CC3BE-A6FE-4B52-98ED-7ABD6133B345}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF7CC3BE-A6FE-4B52-98ED-7ABD6133B345}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF7CC3BE-A6FE-4B52-98ED-7ABD6133B345}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF7CC3BE-A6FE-4B52-98ED-7ABD6133B345}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {97002A37-8D90-40EA-826F-2CAD4CD43E0F}
+	EndGlobalSection
+EndGlobal
